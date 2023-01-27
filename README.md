@@ -1,6 +1,6 @@
 # twitterpersona
 
-Assess a twitter user's character  based on their recent tweets
+Assess a twitter user's character  based on their recent tweets,
 
 ## Summary
 
